@@ -1,3 +1,5 @@
+<!-- WAVING TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
 <!-- HEADER BANNER -->
 <div align="center">
   <img width="1280" height="625" alt="WhatsApp Image 2026-04-30 at 12 46 56 PM" src="https://github.com/user-attachments/assets/3301d117-9e7c-40b8-8e8d-c647083a20f4" />
@@ -18,9 +20,6 @@
 </div>
 
 <br/>
-
-<!-- WAVING TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
 
 <br/>
 
