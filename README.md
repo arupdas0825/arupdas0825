@@ -299,8 +299,8 @@ hobbies:
   <br/>
 
   <p align="center">
-    <i>"The best way to predict the future is to invent it."</i><br/>
-    <b>— Alan Kay</b>
+    <i>"Your time is limited, so don’t waste it living someone else’s life." </i><br/>
+    <b>— Steve Jobs</b>
   </p>
 
   <br/>
