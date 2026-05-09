@@ -169,14 +169,15 @@ hobbies:
   &nbsp;<b>AI Tools Used</b>
 </h3>
 
+<!-- Upload the assets/ai-tools/ folder to your GitHub profile repo, then these icons will render -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4361EE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manus-FF4B6E?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Emergent-00C896?style=for-the-badge&logo=bolt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=opencollective&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/claude.png"      width="65" height="65" alt="Claude"         title="Claude" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/antigravity.png" width="65" height="65" alt="Antigravity"    title="Antigravity" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/openclaw.png"    width="65" height="65" alt="OpenClaw"        title="OpenClaw" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/codex.png"       width="65" height="65" alt="Codex"           title="Codex" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/emergent.png"    width="65" height="65" alt="Emergent"        title="Emergent" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/copilot.png"     width="65" height="65" alt="GitHub Copilot"  title="GitHub Copilot" />
+  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/deepseek.png"    width="65" height="65" alt="DeepSeek"        title="DeepSeek" />
 </p>
 
 <br/>
