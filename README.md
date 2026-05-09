@@ -162,6 +162,23 @@ hobbies:
   <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,git,github,figma,blender&perline=9" />
 </p>
 
+<!-- ════════════════════════════════════ AI TOOLS USED ══════════════════════════════════════ -->
+
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="32" height="32" align="center">
+  &nbsp;<b>AI Tools Used</b>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4361EE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manus-FF4B6E?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emergent-00C896?style=for-the-badge&logo=bolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=opencollective&logoColor=white" />
+</p>
+
 <br/>
 
 <!-- ══════════════════════════════════════ ACTIVITY ════════════════════════════════════════ -->
@@ -225,6 +242,21 @@ hobbies:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arupdas0825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════ LEETCODE ════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e9/512.gif" width="35" height="35" align="center">
+  &nbsp;<b>LeetCode Stats</b>
+</h2>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/arupdas0825?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
 </div>
 
 <br/>
@@ -299,7 +331,7 @@ hobbies:
   <br/>
 
   <p align="center">
-    <i>"Your time is limited, so don’t waste it living someone else’s life." </i><br/>
+    <i>"Your time is limited, so don't waste it living someone else's life." </i><br/>
     <b>— Steve Jobs</b>
   </p>
 
