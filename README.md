@@ -171,13 +171,9 @@ hobbies:
 
 <!-- Upload the assets/ai-tools/ folder to your GitHub profile repo, then these icons will render -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/claude.png"      width="65" height="65" alt="Claude"         title="Claude" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/antigravity.png" width="65" height="65" alt="Antigravity"    title="Antigravity" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/openclaw.png"    width="65" height="65" alt="OpenClaw"        title="OpenClaw" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/codex.png"       width="65" height="65" alt="Codex"           title="Codex" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/emergent.png"    width="65" height="65" alt="Emergent"        title="Emergent" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/copilot.png"     width="65" height="65" alt="GitHub Copilot"  title="GitHub Copilot" />
-  <img src="https://raw.githubusercontent.com/arupdas0825/arupdas0825/main/assets/ai-tools/deepseek.png"    width="65" height="65" alt="DeepSeek"        title="DeepSeek" />
+
+   <img width="479" height="65" alt="ai-tools-strip" src="https://github.com/user-attachments/assets/2419494e-32df-43b3-9d51-34d077c78950" />
+  
 </p>
 
 <br/>
