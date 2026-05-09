@@ -83,7 +83,7 @@ philosophy : >
 hobbies:
   - "💻 Coding & Building Side Projects"
   - "🔬 Exploring Emerging Technologies"
-  - "📸 Content & Travel Blogging"
+  - "📸 Photography & Travel Blogging"
   - "🎮 Gaming"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
