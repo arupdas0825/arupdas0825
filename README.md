@@ -179,7 +179,8 @@ hobbies:
 <br/>
 
 <!-- ══════════════════════════════════════ ACTIVITY ════════════════════════════════════════ -->
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 <h2 align="left">
