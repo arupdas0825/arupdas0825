@@ -1,22 +1,13 @@
-# ──────────────────────────────────────────────────────────────────────────────
-# SETUP STEPS:
-# 1. Sign up at https://wakatime.com and install the WakaTime plugin in your IDE
-# 2. Get your API key from https://wakatime.com/settings/api-key
-# 3. Go to your GitHub repo Settings → Secrets → Actions
-# 4. Add secret: WAKATIME_API_KEY = <your api key>
-# 5. Add this to your README where you want the stats to appear:
-#
-#    <!--START_SECTION:waka-->
-#    <!--END_SECTION:waka-->
-#
-# ──────────────────────────────────────────────────────────────────────────────
-
 name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # Runs daily at midnight IST (18:30 UTC)
-  workflow_dispatch:          # Allows manual trigger from Actions tab
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+# ✅ এই permissions block টা আগের waka.yml এ ছিল না — এটাই মূল সমস্যা
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -25,6 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
@@ -35,7 +28,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           COMMIT_MESSAGE: "📊 Update WakaTime stats"
