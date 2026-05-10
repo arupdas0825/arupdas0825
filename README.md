@@ -243,20 +243,6 @@ hobbies:
 
 <br/>
 
-<!-- ══════════════════════════════════════ LEETCODE ════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
-
-<h2 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e9/512.gif" width="35" height="35" align="center">
-  &nbsp;<b>LeetCode Stats</b>
-</h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/arupdas0825?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════ SNAKE ════════════════════════════════════════════ -->
 
