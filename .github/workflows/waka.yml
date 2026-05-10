@@ -5,9 +5,11 @@ on:
     - cron: "30 18 * * *"
   workflow_dispatch:
 
-# ✅ এই permissions block টা আগের waka.yml এ ছিল না — এটাই মূল সমস্যা
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-readme:
@@ -20,7 +22,7 @@ jobs:
           persist-credentials: true
 
       - name: Update WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol98/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
