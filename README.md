@@ -179,30 +179,9 @@ hobbies:
 <br/>
 
 <!-- ══════════════════════════════════════ ACTIVITY ════════════════════════════════════════ -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
-<h2 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="35" height="35" align="center">
-  &nbsp;<b>Coding Activity</b>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arupdas0825&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=7aa2f750&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════ STATISTICS ══════════════════════════════════════ -->
-<h2>Coding Activity</h2>
-
-<!-- Activity graph -->
-<img src="...activity-graph..." />
-
-<!-- WakaTime weekly stats — auto-updated by GitHub Action -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 <h2 align="left">
