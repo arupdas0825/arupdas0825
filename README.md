@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="1280" height="625" alt="WhatsApp Image 2026-04-30 at 12 46 56 PM" src="https://github.com/user-attachments/assets/3301d117-9e7c-40b8-8e8d-c647083a20f4" />
+ <img width="1600" height="639" alt="WhatsApp Image 2026-06-08 at 3 58 53 AM" src="https://github.com/user-attachments/assets/c5a8bea8-48d6-4a9b-a016-af918d36b427" />
+
 </div>
 
 <!-- TYPING ANIMATION -->
