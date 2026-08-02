@@ -40,61 +40,71 @@
 
 I'm a Computer Science (AI/ML) undergraduate from Kolkata, India, who learns by shipping — turning ideas into deployed, working products rather than tutorial clones. My work sits at the intersection of full-stack engineering and applied machine learning: financial planning tools, developer productivity platforms, privacy-first ML systems, and study-abroad guidance software. I'm currently preparing my portfolio and academic profile toward a Master's in Computer Science / Data Science / AI in Europe, with a target of Winter Semester 2028.
 
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🚀  Welcome to my GitHub Profile!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br/>
 
-user      : Arup Das
-handle    : @arupdas0825
-email     : dasarup0804@gmail.com
-location  : Kolkata, India
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-role:
-  - 🤖  AI & Machine Learning Enthusiast
-  - 🌐  Full-Stack Developer
-  - 📊  Data Science Explorer
-  - 🏗️  Builder of Real-World Intelligent Systems
+**🎓 Education**
+&nbsp;&nbsp;B.Tech, Computer Science & Engineering (AIML)
+&nbsp;&nbsp;3rd Year &nbsp;·&nbsp; CGPA 7.9/10
 
-education:
-  degree   : "B.Tech in Computer Science & Engineering (AIML)"
-  focus    : "Artificial Intelligence & Machine Learning"
-  status   : "3rd Year, CGPA 7.9/10"
+**📍 Location**
+&nbsp;&nbsp;Kolkata, India
 
-current_focus:
-  - "🎓 Preparing a graduate-school application portfolio (TU Wien, target Winter 2028)"
-  - "🧭 Building Studytra — a study-abroad planning platform for students"
-  - "💰 Developing EverBond Wealth — a couple's financial planning web app"
-  - "🧠 Engineering NeuralCode — a privacy-first, local-LLM code translator"
-  - "📈 Growing DevTrack into a full developer-activity social platform"
-  - "🧩 Sharpening DSA & competitive programming fundamentals"
+**✉️ Contact**
+&nbsp;&nbsp;dasarup0804@gmail.com
 
-interests:
-  - "🧠 Machine Learning & Deep Learning"
-  - "📊 Data Science & Analytics"
-  - "🌍 Full-Stack Web Development"
-  - "🧩 Data Structures & Algorithms"
-  - "💡 Problem Solving & System Design"
-  - "🎓 Study-Abroad & Higher Education Systems"
+</td>
+<td valign="top" width="50%">
 
-tech_superpowers:
-  - "🐍 Python & ML Ecosystem"
-  - "⚛️  React / Next.js / Node.js"
-  - "☁️  Cloud Platforms (AWS, GCP, Firebase)"
-  - "📱 Mobile Dev (Flutter, Kotlin)"
+**🧭 What I Do**
+&nbsp;&nbsp;AI & Machine Learning
+&nbsp;&nbsp;Full-Stack Development
+&nbsp;&nbsp;Data Science & Analytics
+&nbsp;&nbsp;Real-World Intelligent Systems
 
-philosophy : >
-  "I believe in learning by building 🏗️ —
-   transforming ideas into functional,
-   real-world solutions. 💡✨"
+</td>
+</tr>
+</table>
 
-hobbies:
-  - "💻 Coding & Building Side Projects"
-  - "🔬 Exploring Emerging Technologies"
-  - "📸 Photography & Travel Blogging"
-  - "🎮 Gaming"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<br/>
+
+#### 🚀 Currently Working On
+
+- 🎓 &nbsp;Preparing a graduate-school application portfolio — **TU Wien**, target Winter 2028
+- 🧭 &nbsp;**Studytra** — a study-abroad planning platform for students
+- 💰 &nbsp;**EverBond Wealth** — a couple's financial planning web app
+- 🧠 &nbsp;**NeuralCode** — a privacy-first, local-LLM code translator
+- 📈 &nbsp;**DevTrack** — growing into a full developer-activity social platform
+- 🧩 &nbsp;Sharpening DSA & competitive programming fundamentals
+
+#### 💡 Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-16213e?style=for-the-badge&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-16213e?style=for-the-badge&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/Data%20Science-16213e?style=for-the-badge&color=bb9af7" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-16213e?style=for-the-badge&color=bb9af7" />
+  <img src="https://img.shields.io/badge/System%20Design-16213e?style=for-the-badge&color=9ece6a" />
+  <img src="https://img.shields.io/badge/Study%20Abroad-16213e?style=for-the-badge&color=9ece6a" />
+</p>
+
+#### 🛠️ Where I'm Strongest
+
+|  |  |
+|---|---|
+| 🐍 **Python & ML Ecosystem** | Core language for models, data, and backend logic |
+| ⚛️ **React / Next.js / Node.js** | Primary stack for shipped, production-facing apps |
+| ☁️ **AWS · GCP · Firebase** | Hosting, auth, and cloud infrastructure |
+| 📱 **Flutter & Kotlin** | Mobile builds when a project needs one |
+
+> *"I believe in learning by building 🏗️ — transforming ideas into functional, real-world solutions."*
+
+#### 🎯 Outside of Code
+
+💻 Side Projects &nbsp;·&nbsp; 🔬 Emerging Tech &nbsp;·&nbsp; 📸 Photography & Travel Blogging &nbsp;·&nbsp; 🎮 Gaming
 
 <!-- QUICK CONTACT BUTTONS -->
 <div align="center">
