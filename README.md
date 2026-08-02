@@ -38,6 +38,8 @@
   &nbsp;<b>About Me</b>
 </h2>
 
+I'm a Computer Science (AI/ML) undergraduate from Kolkata, India, who learns by shipping — turning ideas into deployed, working products rather than tutorial clones. My work sits at the intersection of full-stack engineering and applied machine learning: financial planning tools, developer productivity platforms, privacy-first ML systems, and study-abroad guidance software. I'm currently preparing my portfolio and academic profile toward a Master's in Computer Science / Data Science / AI in Europe, with a target of Winter Semester 2028.
+
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🚀  Welcome to my GitHub Profile!
@@ -46,6 +48,7 @@
 user      : Arup Das
 handle    : @arupdas0825
 email     : dasarup0804@gmail.com
+location  : Kolkata, India
 
 role:
   - 🤖  AI & Machine Learning Enthusiast
@@ -56,6 +59,15 @@ role:
 education:
   degree   : "B.Tech in Computer Science & Engineering (AIML)"
   focus    : "Artificial Intelligence & Machine Learning"
+  status   : "3rd Year, CGPA 7.9/10"
+
+current_focus:
+  - "🎓 Preparing a graduate-school application portfolio (TU Wien, target Winter 2028)"
+  - "🧭 Building Studytra — a study-abroad planning platform for students"
+  - "💰 Developing EverBond Wealth — a couple's financial planning web app"
+  - "🧠 Engineering NeuralCode — a privacy-first, local-LLM code translator"
+  - "📈 Growing DevTrack into a full developer-activity social platform"
+  - "🧩 Sharpening DSA & competitive programming fundamentals"
 
 interests:
   - "🧠 Machine Learning & Deep Learning"
@@ -63,12 +75,7 @@ interests:
   - "🌍 Full-Stack Web Development"
   - "🧩 Data Structures & Algorithms"
   - "💡 Problem Solving & System Design"
-
-current_focus:
-  - "Building intelligent, real-world AI systems"
-  - "Developing scalable full-stack web applications"
-  - "Strengthening DSA & competitive programming skills"
-  - "Exploring ML model deployment & MLOps"
+  - "🎓 Study-Abroad & Higher Education Systems"
 
 tech_superpowers:
   - "🐍 Python & ML Ecosystem"
