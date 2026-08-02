@@ -54,7 +54,7 @@ I'm a Computer Science (AI/ML) undergraduate from Kolkata, India, who learns by 
 &nbsp;&nbsp;Kolkata, India
 
 **✉️ Contact**
-&nbsp;&nbsp;dasarup0804@gmail.com
+&nbsp;&nbsp; arupworks.at@gmail.com
 
 </td>
 <td valign="top" width="50%">
