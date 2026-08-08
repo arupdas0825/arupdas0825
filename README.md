@@ -77,7 +77,7 @@ I'm a Computer Science (AI/ML) undergraduate from Kolkata, India, who learns by 
 - 🧭 &nbsp;**Studytra** — a study-abroad planning platform for students
 - 💰 &nbsp;**EverBond Wealth** — a couple's financial planning web app
 - 🧠 &nbsp;**NeuralCode** — a privacy-first, local-LLM code translator
-- 📈 &nbsp;**DevTrack** — growing into a full developer-activity social platform
+- 📈 &nbsp;**Codefolio** — growing into a full developer-activity social platform
 - 🧩 &nbsp;Sharpening DSA & competitive programming fundamentals
 
 #### 💡 Interests
