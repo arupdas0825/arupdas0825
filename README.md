@@ -48,7 +48,7 @@ I'm a Computer Science (AI/ML) undergraduate from Kolkata, India, who learns by 
 
 **🎓 Education**
 &nbsp;&nbsp;B.Tech, Computer Science & Engineering (AIML)
-&nbsp;&nbsp;3rd Year &nbsp;·&nbsp; CGPA 7.9/10
+&nbsp;&nbsp;3rd Year &nbsp;·&nbsp; GPA 2.0
 
 **📍 Location**
 &nbsp;&nbsp;Kolkata, India
